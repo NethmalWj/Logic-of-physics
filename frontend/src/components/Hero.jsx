@@ -10,14 +10,14 @@ function Hero() {
             A simple bookmark managers
           </h2>
           <p className="text-bookmark-grey text-lg text-center lg:text-left mb-6">
-            gammac thamai
+            gammac 
           </p>
           <div className="flex justify-center flex-wrap gap-6  ">
             <button
               type="button"
               className="btn m-auto btn-purple hover:bg-bookmark-white hover:text-black justify-center"
             >
-              Entroll Today
+              Entroll fuck
             </button>
             {/* <button
               type="button"
