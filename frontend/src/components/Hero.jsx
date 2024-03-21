@@ -10,7 +10,7 @@ function Hero() {
             A simple bookmark managers
           </h2>
           <p className="text-bookmark-grey text-lg text-center lg:text-left mb-6">
-            hriyanna whotto meka
+            kakka barai
           </p>
           <div className="flex justify-center flex-wrap gap-6  ">
             <button
